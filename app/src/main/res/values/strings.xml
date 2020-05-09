@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CCRoulette</string>
+    <string name="player_list">Player List</string>
+    <string name="add">ADD</string>
+    <string name="reset">RESET</string>
+    <string name="play">PLAY</string>
+
+</resources>
